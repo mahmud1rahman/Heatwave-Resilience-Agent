@@ -1,0 +1,72 @@
+{
+  "LS1": [
+    {
+      "name": "Leeds Central Library",
+      "address": "Calverley St, Leeds LS1 3AB",
+      "facilities": ["Air Conditioned", "Free Water Station", "Comfortable Seating", "Accessible Toilets"],
+      "opening_hours": "09:00 - 19:00"
+    },
+    {
+      "name": "Leeds City Museum",
+      "address": "Millennium Square, Leeds LS2 8BH",
+      "facilities": ["Air Conditioned", "Cafe", "Quiet Rest Areas", "Free Entry"],
+      "opening_hours": "10:00 - 17:00"
+    }
+  ],
+  "BD1": [
+    {
+      "name": "Bradford City Library",
+      "address": "9 Aldermanbury, Bradford BD1 1SD",
+      "facilities": ["Air Conditioned", "Hydration Station", "Free Wi-Fi", "Accessible Toilets"],
+      "opening_hours": "09:00 - 19:00"
+    },
+    {
+      "name": "National Science and Media Museum",
+      "address": "Pictureville, Bradford BD1 1NQ",
+      "facilities": ["Air Conditioned Galleries", "Quiet Cool Spaces", "Cafe", "Accessible Entry"],
+      "opening_hours": "10:00 - 18:00"
+    }
+  ],
+  "WF1": [
+    {
+      "name": "Wakefield One Library",
+      "address": "Burton St, Wakefield WF1 2EB",
+      "facilities": ["Air Conditioned", "Public Seating", "Cafe", "Charging Ports"],
+      "opening_hours": "08:30 - 18:00"
+    },
+    {
+      "name": "The Hepworth Wakefield",
+      "address": "Gallery Walk, Wakefield WF1 5AW",
+      "facilities": ["Air Conditioned Galleries", "Shaded Outdoor Areas", "Water Fountains"],
+      "opening_hours": "10:00 - 17:00"
+    }
+  ],
+  "HD1": [
+    {
+      "name": "Huddersfield Library & Art Gallery",
+      "address": "Princess Alexandra Walk, Huddersfield HD1 2SU",
+      "facilities": ["Air Conditioned", "Rest Areas", "Accessible Toilets", "Water Fountain"],
+      "opening_hours": "09:00 - 17:00"
+    },
+    {
+      "name": "Kingsgate Shopping Centre",
+      "address": "King St, Huddersfield HD1 1QE",
+      "facilities": ["Full Air Conditioning", "Public Seating Areas", "Food Court", "Pharmacy"],
+      "opening_hours": "09:00 - 17:30"
+    }
+  ],
+  "HX1": [
+    {
+      "name": "Halifax Central Library & Archives",
+      "address": "Square Rd, Halifax HX1 1QG",
+      "facilities": ["Air Conditioned", "Charging Points", "Quiet Work Spaces", "Drinking Water"],
+      "opening_hours": "09:30 - 18:30"
+    },
+    {
+      "name": "The Piece Hall",
+      "address": "Blackledge, Halifax HX1 1RE",
+      "facilities": ["Shaded Colonnades", "Cool Stone Courtyard", "Shops & Cafes", "Public Restrooms"],
+      "opening_hours": "10:00 - 23:00"
+    }
+  ]
+}

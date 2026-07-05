@@ -1,0 +1,75 @@
+{
+  "alerts": {
+    "Green": {
+      "level": "Green (Preparedness)",
+      "trigger": "Summer preparedness, normal temperatures.",
+      "general_guidelines": [
+        "Monitor local weather forecasts regularly.",
+        "Ensure cooling equipment (fans, air conditioning) is operational.",
+        "Check that volunteer contacts and database are up to date."
+      ]
+    },
+    "Yellow": {
+      "level": "Yellow (Response)",
+      "trigger": "Heatwave temperatures likely to impact vulnerable groups.",
+      "general_guidelines": [
+        "Initiate regular check-ins with registered vulnerable residents.",
+        "Remind community of hydration best practices.",
+        "Publicize cooling hub locations and opening hours."
+      ]
+    },
+    "Amber": {
+      "level": "Amber (Enhanced Response)",
+      "trigger": "Heatwave temperatures likely to affect wider population and infrastructure.",
+      "general_guidelines": [
+        "Launch active door-knocking volunteer campaigns in high-risk zones.",
+        "Distribute cool water and advice pamphlets to vulnerable homes.",
+        "Coordinate transport support to cooling hubs for high-risk individuals."
+      ]
+    },
+    "Red": {
+      "level": "Red (National Emergency)",
+      "trigger": "Severe heatwave threatening lives of healthy individuals as well.",
+      "general_guidelines": [
+        "Mobilize emergency volunteer units for 24/7 resident monitoring.",
+        "Establish direct communication channels with local health services.",
+        "Provide emergency cooling support and immediate relocation assistance."
+      ]
+    }
+  },
+  "vulnerability_guidance": {
+    "elderly": {
+      "vulnerability_type": "Elderly (65+ years)",
+      "clinical_risks": "Reduced sweating capability, higher risk of dehydration, cardiovascular strain.",
+      "actions": [
+        "Check that indoor temperature is under 26°C.",
+        "Verify they have at least 2 liters of drinking water within easy reach.",
+        "Check medication labels (some medicines impair heat tolerance or require refrigeration).",
+        "Advise keeping curtains closed on sun-facing windows."
+      ],
+      "red_flags": ["Confusion", "Dry mouth", "Rapid pulse", "Nausea or vomiting", "Hot, dry skin without sweat"]
+    },
+    "infants": {
+      "vulnerability_type": "Infants & Young Children",
+      "clinical_risks": "Rapid dehydration, inability to regulate body temperature, risk of heat stroke.",
+      "actions": [
+        "Advise parents to keep rooms cool (ideally 16-20°C, definitely under 24°C).",
+        "Ensure babies are dressed in light, breathable clothing (e.g., single singlet/nappy).",
+        "Provide frequent breastfeeds or water/formula feeds.",
+        "Never leave children in parked cars under any circumstances."
+      ],
+      "red_flags": ["Sunken fontanelle (soft spot)", "Fewer wet nappies", "Lethargy or extreme floppiness", "Rapid breathing"]
+    },
+    "chronic_illness": {
+      "vulnerability_type": "Chronic Illness (Heart, Lung, or Kidney conditions)",
+      "clinical_risks": "Heat increases blood viscosity and workload on the heart/lungs, potentially exacerbating underlying diseases.",
+      "actions": [
+        "Ensure inhalers, heart medication, or other critical treatments are easily accessible.",
+        "Advise staying indoors in air-conditioned or well-ventilated cool rooms.",
+        "Avoid any strenuous physical activity.",
+        "Record and monitor pulse rate and blood pressure if they have monitoring devices."
+      ],
+      "red_flags": ["Chest pain", "Shortness of breath", "Severe dizziness or fainting", "Swelling in ankles/legs"]
+    }
+  }
+}
