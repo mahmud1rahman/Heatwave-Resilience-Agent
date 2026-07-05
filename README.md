@@ -31,7 +31,7 @@ graph TD
     end
 ```
 
-For a detailed deep-dive into the codebase structure and individual node logic, see [project.md](file:///Users/ShahimaIA2/Documents/Capstone Project_5 day AI agents/community-heatwave-agent/project.md).
+For a detailed deep-dive into the codebase structure and individual node logic, see [project.md]
 
 ---
 
